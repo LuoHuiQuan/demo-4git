@@ -13,6 +13,7 @@ public class TestGit {
         System.out.println("idea git second");
         System.out.println("idea git  4");
         System.out.println("master git  test");
+        System.out.println("hot-fix test");
     }
 
 }
