@@ -11,6 +11,7 @@ public class TestGit {
     public static void main(String[] args){
         System.out.println("idea git commit");
         System.out.println("idea git second");
+        System.out.println("idea git  4");
     }
 
 }
