@@ -12,6 +12,7 @@ public class TestGit {
         System.out.println("idea git commit");
         System.out.println("idea git second");
         System.out.println("idea git  4");
+        System.out.println("hot-fix test");
     }
 
 }
