@@ -14,6 +14,8 @@ public class TestGit {
         System.out.println("idea git  4");
         System.out.println("master git  test");
         System.out.println("hot-fix test");
+        System.out.println("pull test");
+        
     }
 
 }
